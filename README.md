@@ -68,10 +68,6 @@ jupyter notebook EDA.ipynb
 
 ---
 
-## 📅 Deadline
-
-> All internship tasks, including this one, are due by **28th May 2025**.
-
 ---
 
 Thanks for checking out this project! 😊  
