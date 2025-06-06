@@ -9,7 +9,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a real
 ## 📁 Dataset
 
 - **Source**: Airbnb Open Data
-- **File Used**: `Airbnb_Open_Data_Sample_10k.csv` (sample of 10,000 rows to stay within GitHub limits)
+- **File Used**: Dataset
 
 ---
 
