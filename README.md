@@ -9,7 +9,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a real
 ## 📁 Dataset
 
 - **Source**: Airbnb Open Data
-- **File Used**: Dataset
+- **File Used**:Air_bnb_open_Dataset
 
 ---
 
@@ -41,7 +41,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a real
 
 | File Name                        | Description                                      |
 |----------------------------------|--------------------------------------------------|
-| `Airbnb_Open_Data_Sample_10k.csv` | Sample dataset for analysis                      |
+| `Airbnb_Open_Data.rar` | Sample dataset for analysis                      |
 | `EDA.ipynb`                      | Jupyter Notebook with EDA, visuals & insights    |
 | `requirements.txt`              | Python dependencies used                         |
 | `README.md`                     | Project overview and documentation               |
